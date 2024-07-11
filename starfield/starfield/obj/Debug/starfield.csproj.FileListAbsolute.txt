@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\starfield\starfield\bin\Debug\starfield.exe.config
+C:\Users\정승호\source\repos\starfield\starfield\bin\Debug\starfield.exe
+C:\Users\정승호\source\repos\starfield\starfield\bin\Debug\starfield.pdb
+C:\Users\정승호\source\repos\starfield\starfield\obj\Debug\starfield.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\starfield\starfield\obj\Debug\starfield.Form1.resources
+C:\Users\정승호\source\repos\starfield\starfield\obj\Debug\starfield.Properties.Resources.resources
+C:\Users\정승호\source\repos\starfield\starfield\obj\Debug\starfield.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\starfield\starfield\obj\Debug\starfield.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\starfield\starfield\obj\Debug\starfield.exe
+C:\Users\정승호\source\repos\starfield\starfield\obj\Debug\starfield.pdb
