@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\ProjectCrapsGame\ProjectCrapsGame\bin\Debug\ProjectCrapsGame.exe.config
+C:\Users\정승호\source\repos\ProjectCrapsGame\ProjectCrapsGame\bin\Debug\ProjectCrapsGame.exe
+C:\Users\정승호\source\repos\ProjectCrapsGame\ProjectCrapsGame\bin\Debug\ProjectCrapsGame.pdb
+C:\Users\정승호\source\repos\ProjectCrapsGame\ProjectCrapsGame\obj\Debug\ProjectCrapsGame.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\ProjectCrapsGame\ProjectCrapsGame\obj\Debug\ProjectCrapsGame.Form1.resources
+C:\Users\정승호\source\repos\ProjectCrapsGame\ProjectCrapsGame\obj\Debug\ProjectCrapsGame.Properties.Resources.resources
+C:\Users\정승호\source\repos\ProjectCrapsGame\ProjectCrapsGame\obj\Debug\ProjectCrapsGame.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\ProjectCrapsGame\ProjectCrapsGame\obj\Debug\ProjectCrapsGame.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\ProjectCrapsGame\ProjectCrapsGame\obj\Debug\ProjectCrapsGame.exe
+C:\Users\정승호\source\repos\ProjectCrapsGame\ProjectCrapsGame\obj\Debug\ProjectCrapsGame.pdb

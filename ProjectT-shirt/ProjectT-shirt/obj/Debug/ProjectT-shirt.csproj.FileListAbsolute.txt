@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\ProjectT-shirt\ProjectT-shirt\bin\Debug\ProjectT-shirt.exe.config
+C:\Users\정승호\source\repos\ProjectT-shirt\ProjectT-shirt\bin\Debug\ProjectT-shirt.exe
+C:\Users\정승호\source\repos\ProjectT-shirt\ProjectT-shirt\bin\Debug\ProjectT-shirt.pdb
+C:\Users\정승호\source\repos\ProjectT-shirt\ProjectT-shirt\obj\Debug\ProjectT-shirt.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\ProjectT-shirt\ProjectT-shirt\obj\Debug\ProjectT_shirt.Form1.resources
+C:\Users\정승호\source\repos\ProjectT-shirt\ProjectT-shirt\obj\Debug\ProjectT_shirt.Properties.Resources.resources
+C:\Users\정승호\source\repos\ProjectT-shirt\ProjectT-shirt\obj\Debug\ProjectT-shirt.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\ProjectT-shirt\ProjectT-shirt\obj\Debug\ProjectT-shirt.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\ProjectT-shirt\ProjectT-shirt\obj\Debug\ProjectT-shirt.exe
+C:\Users\정승호\source\repos\ProjectT-shirt\ProjectT-shirt\obj\Debug\ProjectT-shirt.pdb
