@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\TestScoreProject\TestScoreProject\bin\Debug\TestScoreProject.exe.config
+C:\Users\정승호\source\repos\TestScoreProject\TestScoreProject\bin\Debug\TestScoreProject.exe
+C:\Users\정승호\source\repos\TestScoreProject\TestScoreProject\bin\Debug\TestScoreProject.pdb
+C:\Users\정승호\source\repos\TestScoreProject\TestScoreProject\obj\Debug\TestScoreProject.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\TestScoreProject\TestScoreProject\obj\Debug\TestScoreProject.TestScore.resources
+C:\Users\정승호\source\repos\TestScoreProject\TestScoreProject\obj\Debug\TestScoreProject.Properties.Resources.resources
+C:\Users\정승호\source\repos\TestScoreProject\TestScoreProject\obj\Debug\TestScoreProject.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\TestScoreProject\TestScoreProject\obj\Debug\TestScoreProject.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\TestScoreProject\TestScoreProject\obj\Debug\TestScoreProject.exe
+C:\Users\정승호\source\repos\TestScoreProject\TestScoreProject\obj\Debug\TestScoreProject.pdb
