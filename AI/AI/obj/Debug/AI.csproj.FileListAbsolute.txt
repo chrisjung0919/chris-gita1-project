@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\AI\AI\bin\Debug\AI.exe.config
+C:\Users\정승호\source\repos\AI\AI\bin\Debug\AI.exe
+C:\Users\정승호\source\repos\AI\AI\bin\Debug\AI.pdb
+C:\Users\정승호\source\repos\AI\AI\obj\Debug\AI.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\AI\AI\obj\Debug\AI.Form1.resources
+C:\Users\정승호\source\repos\AI\AI\obj\Debug\AI.Properties.Resources.resources
+C:\Users\정승호\source\repos\AI\AI\obj\Debug\AI.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\AI\AI\obj\Debug\AI.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\AI\AI\obj\Debug\AI.exe
+C:\Users\정승호\source\repos\AI\AI\obj\Debug\AI.pdb
