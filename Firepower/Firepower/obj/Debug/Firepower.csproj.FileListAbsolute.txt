@@ -1,0 +1,12 @@
+C:\Users\정승호\source\repos\Firepower\Firepower\bin\Debug\Firepower.exe.config
+C:\Users\정승호\source\repos\Firepower\Firepower\bin\Debug\Firepower.exe
+C:\Users\정승호\source\repos\Firepower\Firepower\bin\Debug\Firepower.pdb
+C:\Users\정승호\source\repos\Firepower\Firepower\obj\Debug\Firepower.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\Firepower\Firepower\obj\Debug\Firepower.Form1.resources
+C:\Users\정승호\source\repos\Firepower\Firepower\obj\Debug\Firepower.Properties.Resources.resources
+C:\Users\정승호\source\repos\Firepower\Firepower\obj\Debug\Firepower.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\Firepower\Firepower\obj\Debug\Firepower.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\Firepower\Firepower\obj\Debug\Firepower.exe
+C:\Users\정승호\source\repos\Firepower\Firepower\obj\Debug\Firepower.pdb
+C:\Users\정승호\source\repos\Firepower\Firepower\obj\Debug\Firepower.level2.resources
+C:\Users\정승호\source\repos\Firepower\Firepower\obj\Debug\Firepower.level3.resources

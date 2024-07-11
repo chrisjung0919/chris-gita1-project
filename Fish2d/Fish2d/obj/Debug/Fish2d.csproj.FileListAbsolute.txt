@@ -1,0 +1,10 @@
+C:\source\repos\Fish2d\Fish2d\bin\Debug\Fish2d.exe.config
+C:\source\repos\Fish2d\Fish2d\bin\Debug\Fish2d.exe
+C:\source\repos\Fish2d\Fish2d\bin\Debug\Fish2d.pdb
+C:\source\repos\Fish2d\Fish2d\obj\Debug\Fish2d.csprojAssemblyReference.cache
+C:\source\repos\Fish2d\Fish2d\obj\Debug\Fish2d.Form1.resources
+C:\source\repos\Fish2d\Fish2d\obj\Debug\Fish2d.Properties.Resources.resources
+C:\source\repos\Fish2d\Fish2d\obj\Debug\Fish2d.csproj.GenerateResource.cache
+C:\source\repos\Fish2d\Fish2d\obj\Debug\Fish2d.csproj.CoreCompileInputs.cache
+C:\source\repos\Fish2d\Fish2d\obj\Debug\Fish2d.exe
+C:\source\repos\Fish2d\Fish2d\obj\Debug\Fish2d.pdb

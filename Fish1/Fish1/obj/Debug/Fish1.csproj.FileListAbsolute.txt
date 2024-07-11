@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\Fish1\Fish1\bin\Debug\Fish1.exe.config
+C:\Users\정승호\source\repos\Fish1\Fish1\bin\Debug\Fish1.exe
+C:\Users\정승호\source\repos\Fish1\Fish1\bin\Debug\Fish1.pdb
+C:\Users\정승호\source\repos\Fish1\Fish1\obj\Debug\Fish1.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\Fish1\Fish1\obj\Debug\Fish1.Fish1.resources
+C:\Users\정승호\source\repos\Fish1\Fish1\obj\Debug\Fish1.Properties.Resources.resources
+C:\Users\정승호\source\repos\Fish1\Fish1\obj\Debug\Fish1.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\Fish1\Fish1\obj\Debug\Fish1.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\Fish1\Fish1\obj\Debug\Fish1.exe
+C:\Users\정승호\source\repos\Fish1\Fish1\obj\Debug\Fish1.pdb
