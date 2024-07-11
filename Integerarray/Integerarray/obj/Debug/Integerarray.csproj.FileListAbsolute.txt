@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\Integerarray\Integerarray\bin\Debug\Integerarray.exe.config
+C:\Users\정승호\source\repos\Integerarray\Integerarray\bin\Debug\Integerarray.exe
+C:\Users\정승호\source\repos\Integerarray\Integerarray\bin\Debug\Integerarray.pdb
+C:\Users\정승호\source\repos\Integerarray\Integerarray\obj\Debug\Integerarray.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\Integerarray\Integerarray\obj\Debug\Integerarray.Form1.resources
+C:\Users\정승호\source\repos\Integerarray\Integerarray\obj\Debug\Integerarray.Properties.Resources.resources
+C:\Users\정승호\source\repos\Integerarray\Integerarray\obj\Debug\Integerarray.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\Integerarray\Integerarray\obj\Debug\Integerarray.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\Integerarray\Integerarray\obj\Debug\Integerarray.exe
+C:\Users\정승호\source\repos\Integerarray\Integerarray\obj\Debug\Integerarray.pdb

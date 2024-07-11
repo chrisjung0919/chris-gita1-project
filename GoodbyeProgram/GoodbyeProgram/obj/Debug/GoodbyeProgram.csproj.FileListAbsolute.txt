@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\GoodbyeProgram\GoodbyeProgram\bin\Debug\GoodbyeProgram.exe.config
+C:\Users\정승호\source\repos\GoodbyeProgram\GoodbyeProgram\bin\Debug\GoodbyeProgram.exe
+C:\Users\정승호\source\repos\GoodbyeProgram\GoodbyeProgram\bin\Debug\GoodbyeProgram.pdb
+C:\Users\정승호\source\repos\GoodbyeProgram\GoodbyeProgram\obj\Debug\GoodbyeProgram.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\GoodbyeProgram\GoodbyeProgram\obj\Debug\GoodbyeProgram.Form1.resources
+C:\Users\정승호\source\repos\GoodbyeProgram\GoodbyeProgram\obj\Debug\GoodbyeProgram.Properties.Resources.resources
+C:\Users\정승호\source\repos\GoodbyeProgram\GoodbyeProgram\obj\Debug\GoodbyeProgram.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\GoodbyeProgram\GoodbyeProgram\obj\Debug\GoodbyeProgram.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\GoodbyeProgram\GoodbyeProgram\obj\Debug\GoodbyeProgram.exe
+C:\Users\정승호\source\repos\GoodbyeProgram\GoodbyeProgram\obj\Debug\GoodbyeProgram.pdb

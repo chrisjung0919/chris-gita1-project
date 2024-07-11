@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\JumpTest\JumpTest\bin\Debug\JumpTest.exe.config
+C:\Users\정승호\source\repos\JumpTest\JumpTest\bin\Debug\JumpTest.exe
+C:\Users\정승호\source\repos\JumpTest\JumpTest\bin\Debug\JumpTest.pdb
+C:\Users\정승호\source\repos\JumpTest\JumpTest\obj\Debug\JumpTest.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\JumpTest\JumpTest\obj\Debug\JumpTest.Form1.resources
+C:\Users\정승호\source\repos\JumpTest\JumpTest\obj\Debug\JumpTest.Properties.Resources.resources
+C:\Users\정승호\source\repos\JumpTest\JumpTest\obj\Debug\JumpTest.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\JumpTest\JumpTest\obj\Debug\JumpTest.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\JumpTest\JumpTest\obj\Debug\JumpTest.exe
+C:\Users\정승호\source\repos\JumpTest\JumpTest\obj\Debug\JumpTest.pdb
