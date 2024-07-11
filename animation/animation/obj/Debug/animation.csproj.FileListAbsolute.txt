@@ -1,0 +1,21 @@
+C:\Users\정승호\source\repos\animation\animation\bin\Debug\animation.exe.config
+C:\Users\정승호\source\repos\animation\animation\bin\Debug\animation.exe
+C:\Users\정승호\source\repos\animation\animation\bin\Debug\animation.pdb
+C:\Users\정승호\source\repos\animation\animation\obj\Debug\animation.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\animation\animation\obj\Debug\animation.Form1.resources
+C:\Users\정승호\source\repos\animation\animation\obj\Debug\animation.Properties.Resources.resources
+C:\Users\정승호\source\repos\animation\animation\obj\Debug\animation.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\animation\animation\obj\Debug\animation.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\animation\animation\obj\Debug\animation.exe
+C:\Users\정승호\source\repos\animation\animation\obj\Debug\animation.pdb
+D:\repos - 복사본 (2)\animation\animation\bin\Debug\animation.exe.config
+D:\repos - 복사본 (2)\animation\animation\bin\Debug\animation.exe
+D:\repos - 복사본 (2)\animation\animation\bin\Debug\animation.pdb
+D:\repos - 복사본 (2)\animation\animation\obj\Debug\animation.csproj.AssemblyReference.cache
+D:\repos - 복사본 (2)\animation\animation\obj\Debug\animation.csproj.SuggestedBindingRedirects.cache
+D:\repos - 복사본 (2)\animation\animation\obj\Debug\animation.Form1.resources
+D:\repos - 복사본 (2)\animation\animation\obj\Debug\animation.Properties.Resources.resources
+D:\repos - 복사본 (2)\animation\animation\obj\Debug\animation.csproj.GenerateResource.cache
+D:\repos - 복사본 (2)\animation\animation\obj\Debug\animation.csproj.CoreCompileInputs.cache
+D:\repos - 복사본 (2)\animation\animation\obj\Debug\animation.exe
+D:\repos - 복사본 (2)\animation\animation\obj\Debug\animation.pdb

@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\Aquarium\Aquarium\bin\Debug\Aquarium.exe.config
+C:\Users\정승호\source\repos\Aquarium\Aquarium\bin\Debug\Aquarium.exe
+C:\Users\정승호\source\repos\Aquarium\Aquarium\bin\Debug\Aquarium.pdb
+C:\Users\정승호\source\repos\Aquarium\Aquarium\obj\Debug\Aquarium.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\Aquarium\Aquarium\obj\Debug\Aquarium.Form1.resources
+C:\Users\정승호\source\repos\Aquarium\Aquarium\obj\Debug\Aquarium.Properties.Resources.resources
+C:\Users\정승호\source\repos\Aquarium\Aquarium\obj\Debug\Aquarium.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\Aquarium\Aquarium\obj\Debug\Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\Aquarium\Aquarium\obj\Debug\Aquarium.exe
+C:\Users\정승호\source\repos\Aquarium\Aquarium\obj\Debug\Aquarium.pdb
