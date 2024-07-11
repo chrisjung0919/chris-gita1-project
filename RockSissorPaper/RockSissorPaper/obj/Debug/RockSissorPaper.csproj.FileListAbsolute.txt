@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\RockSissorPaper\RockSissorPaper\bin\Debug\RockSissorPaper.exe.config
+C:\Users\정승호\source\repos\RockSissorPaper\RockSissorPaper\bin\Debug\RockSissorPaper.exe
+C:\Users\정승호\source\repos\RockSissorPaper\RockSissorPaper\bin\Debug\RockSissorPaper.pdb
+C:\Users\정승호\source\repos\RockSissorPaper\RockSissorPaper\obj\Debug\RockSissorPaper.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\RockSissorPaper\RockSissorPaper\obj\Debug\RockSissorPaper.Form1.resources
+C:\Users\정승호\source\repos\RockSissorPaper\RockSissorPaper\obj\Debug\RockSissorPaper.Properties.Resources.resources
+C:\Users\정승호\source\repos\RockSissorPaper\RockSissorPaper\obj\Debug\RockSissorPaper.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\RockSissorPaper\RockSissorPaper\obj\Debug\RockSissorPaper.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\RockSissorPaper\RockSissorPaper\obj\Debug\RockSissorPaper.exe
+C:\Users\정승호\source\repos\RockSissorPaper\RockSissorPaper\obj\Debug\RockSissorPaper.pdb

@@ -1,0 +1,31 @@
+C:\Users\정승호\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+C:\Users\정승호\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe
+C:\Users\정승호\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.pdb
+C:\Users\정승호\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.Form1.resources
+C:\Users\정승호\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.Properties.Resources.resources
+C:\Users\정승호\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.exe
+C:\Users\정승호\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.pdb
+C:\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+C:\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe
+C:\source\repos\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.pdb
+C:\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csprojAssemblyReference.cache
+C:\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.Form1.resources
+C:\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.Properties.Resources.resources
+C:\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.GenerateResource.cache
+C:\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.exe
+C:\source\repos\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.pdb
+D:\repos - 복사본 (2)\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+D:\repos - 복사본 (2)\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe
+D:\repos - 복사본 (2)\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.pdb
+D:\repos - 복사본 (2)\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.AssemblyReference.cache
+D:\repos - 복사본 (2)\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.SuggestedBindingRedirects.cache
+D:\repos - 복사본 (2)\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.Form1.resources
+D:\repos - 복사본 (2)\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.Properties.Resources.resources
+D:\repos - 복사본 (2)\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.GenerateResource.cache
+D:\repos - 복사본 (2)\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.csproj.CoreCompileInputs.cache
+D:\repos - 복사본 (2)\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.exe
+D:\repos - 복사본 (2)\RandomNumbers\RandomNumbers\obj\Debug\RandomNumbers.pdb

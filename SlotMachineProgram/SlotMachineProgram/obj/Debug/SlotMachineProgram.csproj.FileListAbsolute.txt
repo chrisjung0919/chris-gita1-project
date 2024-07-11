@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\SlotMachineProgram\SlotMachineProgram\bin\Debug\SlotMachineProgram.exe.config
+C:\Users\정승호\source\repos\SlotMachineProgram\SlotMachineProgram\bin\Debug\SlotMachineProgram.exe
+C:\Users\정승호\source\repos\SlotMachineProgram\SlotMachineProgram\bin\Debug\SlotMachineProgram.pdb
+C:\Users\정승호\source\repos\SlotMachineProgram\SlotMachineProgram\obj\Debug\SlotMachineProgram.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\SlotMachineProgram\SlotMachineProgram\obj\Debug\SlotMachineProgram.Form1.resources
+C:\Users\정승호\source\repos\SlotMachineProgram\SlotMachineProgram\obj\Debug\SlotMachineProgram.Properties.Resources.resources
+C:\Users\정승호\source\repos\SlotMachineProgram\SlotMachineProgram\obj\Debug\SlotMachineProgram.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\SlotMachineProgram\SlotMachineProgram\obj\Debug\SlotMachineProgram.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\SlotMachineProgram\SlotMachineProgram\obj\Debug\SlotMachineProgram.exe
+C:\Users\정승호\source\repos\SlotMachineProgram\SlotMachineProgram\obj\Debug\SlotMachineProgram.pdb
