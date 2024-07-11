@@ -1,0 +1,21 @@
+C:\Users\정승호\source\repos\Boss\Boss\bin\Debug\Boss.exe.config
+C:\Users\정승호\source\repos\Boss\Boss\bin\Debug\Boss.exe
+C:\Users\정승호\source\repos\Boss\Boss\bin\Debug\Boss.pdb
+C:\Users\정승호\source\repos\Boss\Boss\obj\Debug\Boss.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\Boss\Boss\obj\Debug\Boss.Form1.resources
+C:\Users\정승호\source\repos\Boss\Boss\obj\Debug\Boss.Properties.Resources.resources
+C:\Users\정승호\source\repos\Boss\Boss\obj\Debug\Boss.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\Boss\Boss\obj\Debug\Boss.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\Boss\Boss\obj\Debug\Boss.exe
+C:\Users\정승호\source\repos\Boss\Boss\obj\Debug\Boss.pdb
+D:\repos - 복사본 (2)\Boss\Boss\bin\Debug\Boss.exe.config
+D:\repos - 복사본 (2)\Boss\Boss\bin\Debug\Boss.exe
+D:\repos - 복사본 (2)\Boss\Boss\bin\Debug\Boss.pdb
+D:\repos - 복사본 (2)\Boss\Boss\obj\Debug\Boss.csproj.AssemblyReference.cache
+D:\repos - 복사본 (2)\Boss\Boss\obj\Debug\Boss.csproj.SuggestedBindingRedirects.cache
+D:\repos - 복사본 (2)\Boss\Boss\obj\Debug\Boss.Form1.resources
+D:\repos - 복사본 (2)\Boss\Boss\obj\Debug\Boss.Properties.Resources.resources
+D:\repos - 복사본 (2)\Boss\Boss\obj\Debug\Boss.csproj.GenerateResource.cache
+D:\repos - 복사본 (2)\Boss\Boss\obj\Debug\Boss.csproj.CoreCompileInputs.cache
+D:\repos - 복사본 (2)\Boss\Boss\obj\Debug\Boss.exe
+D:\repos - 복사본 (2)\Boss\Boss\obj\Debug\Boss.pdb
