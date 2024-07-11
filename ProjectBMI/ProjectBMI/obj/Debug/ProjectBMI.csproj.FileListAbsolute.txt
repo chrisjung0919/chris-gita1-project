@@ -1,0 +1,10 @@
+C:\Users\정승호\source\repos\ProjectBMI\ProjectBMI\bin\Debug\ProjectBMI.exe.config
+C:\Users\정승호\source\repos\ProjectBMI\ProjectBMI\bin\Debug\ProjectBMI.exe
+C:\Users\정승호\source\repos\ProjectBMI\ProjectBMI\bin\Debug\ProjectBMI.pdb
+C:\Users\정승호\source\repos\ProjectBMI\ProjectBMI\obj\Debug\ProjectBMI.csprojAssemblyReference.cache
+C:\Users\정승호\source\repos\ProjectBMI\ProjectBMI\obj\Debug\ProjectBMI.Form1.resources
+C:\Users\정승호\source\repos\ProjectBMI\ProjectBMI\obj\Debug\ProjectBMI.Properties.Resources.resources
+C:\Users\정승호\source\repos\ProjectBMI\ProjectBMI\obj\Debug\ProjectBMI.csproj.GenerateResource.cache
+C:\Users\정승호\source\repos\ProjectBMI\ProjectBMI\obj\Debug\ProjectBMI.csproj.CoreCompileInputs.cache
+C:\Users\정승호\source\repos\ProjectBMI\ProjectBMI\obj\Debug\ProjectBMI.exe
+C:\Users\정승호\source\repos\ProjectBMI\ProjectBMI\obj\Debug\ProjectBMI.pdb
